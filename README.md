@@ -24,7 +24,7 @@
 
 ### 🎓 Verified Professional Identity
 - **ORCID iD:** [![](https://img.shields.io/badge/ORCID-Verified-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/YOUR_ORCID_NUMBER_HERE)
-- **Email:** `wambui.io.dev@gmail.com`
+- **Email:** `Stephanie2wambui@gmail.com`
 - **Location:** Nairobi, Kenya 🇰🇪
 
 ---
